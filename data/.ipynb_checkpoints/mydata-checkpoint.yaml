@@ -1,0 +1,9 @@
+train: /project/train/src_repo/train.txt
+val: /project/train/src_repo/train.txt
+test: /project/train/src_repo/train.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ["vendors"]

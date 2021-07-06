@@ -1,0 +1,9 @@
+train: /project/train/src_repo/train.txt
+val: /project/train/src_repo/train.txt
+test: /project/train/src_repo/train.txt
+
+# number of classes
+nc: 5
+
+# class names
+names: [["s_sleeve", "shorts"], ["s_sleeve", "trousers"], ["l_sleeve", "shorts"], ["l_sleeve", "trousers"], ["unsure"]]
